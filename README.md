@@ -9,7 +9,7 @@ This application processes data about parallelepipeds, calculates their geometri
 1. Clone the repository
    ```bash
    git clone https://github.com/SRakhatDRT/my_project_parall
-   cd parall_proj
+   cd my_project_parall
    ```
 
 2. Create the outputs directory
